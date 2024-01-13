@@ -2,7 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='w-screen h-[150px] bg-[#59749B]'>
+        
+    </div>
   )
 }
 
